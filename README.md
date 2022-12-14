@@ -54,5 +54,6 @@ You may also need to replace the bus number.
 
 * More configuration options
 * Simpler usage
+* Dynamic timing
 
 
